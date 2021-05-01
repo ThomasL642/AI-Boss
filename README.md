@@ -1,2 +1,2 @@
 # AI-Boss
-A RL environment made to simulate a work enviroment
+An RL environment made to simulate a work environment
